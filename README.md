@@ -1,2 +1,1 @@
-I like C#
-I try to learn C++
+I do Phyton now its so good you dont even understand
